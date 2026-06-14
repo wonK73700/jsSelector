@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #f5f7fa;
+	padding: 30px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 25px;
+	color: #2c3e50;
+}
+
+section {
+	background: white;
+	padding: 20px;
+	margin-bottom: 15px;
+	border-radius : 10px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+h2 {
+	margin-bottom: 10px;
+	color : #e498db;
+}
+
+li {
+
+	margin: 8px 0;
+	margin-left: 8px;
+	color: black;
+}
+
+.visited {
+	color:gray;
+}
